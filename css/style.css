@@ -1,0 +1,30 @@
+img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+
+fieldset {
+    border: 1px solid;
+}
+
+legend {
+    width : fit-content;
+    text-align: center;
+}
+
+#idMdp, #idEmail {
+    display: flex;
+    text-align: center;
+    margin:auto;
+    width: 50%;
+}
+
+input {
+    text-align: center;
+}
+
+#buttons {
+    text-align: center;
+}
